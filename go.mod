@@ -1,4 +1,4 @@
-module gradient
+module github.com/dennisrijsdijk/gradient
 
 go 1.21
 
